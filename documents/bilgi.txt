@@ -1,0 +1,9 @@
+Microsoft Foundry Local, yapay zeka modellerini yerel bilgisayarda çalıştırmayı sağlayan bir platformdur.
+
+Foundry Local sayesinde modeller cihaz üzerinde çalıştırılabilir. Bu yaklaşım, verilerin uzak bir sunucuya gönderilmeden işlenmesine yardımcı olur.
+
+Phi-4-mini, Microsoft tarafından geliştirilen küçük ve verimli bir dil modelidir.
+
+RAG, Retrieval-Augmented Generation anlamına gelir. RAG sistemlerinde kullanıcı sorusu doğrudan dil modeline gönderilmek yerine önce ilgili bilgiler bir bilgi kaynağından bulunur. Daha sonra bulunan bilgiler modele bağlam olarak gönderilir.
+
+Yerel RAG uygulamasında dokümanlar bilgisayarda tutulabilir ve kullanıcı sorularına dokümanlardaki bilgiler kullanılarak cevap verilebilir.

@@ -1,0 +1,17 @@
+{
+  "name": "localrag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "foundry-local-sdk-winml": "^1.2.4",
+    "openai": "^7.4.0"
+  },
+  "type": "module"
+}
