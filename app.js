@@ -3,7 +3,7 @@ import OpenAI from "openai";
 console.log("Connecting to Foundry Local...");
 
 const client = new OpenAI({
-    baseURL: "http://127.0.0.1:54417/v1",
+    baseURL: "http://127.0.0.1:49318/v1",
     apiKey: "foundry-local"
 });
 

@@ -15,7 +15,7 @@ console.log("✓ Document loaded successfully");
 // --------------------------------------------------
 
 const client = new OpenAI({
-    baseURL: "http://127.0.0.1:50711/v1",
+    baseURL: "http://127.0.0.1:49318/v1",
     apiKey: "foundry-local"
 });
 
